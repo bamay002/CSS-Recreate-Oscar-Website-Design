@@ -1,0 +1,38 @@
+
+
+body{
+    margin: 0;
+}
+.top-nav{
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.top-nav ul{
+    display: inline-flex;
+    margin: 0;
+}
+
+.top-nav li{
+    list-style-type: none;
+    margin-left: 20px;
+    height: 100%;
+}
+
+.main-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main-nav ul{
+    display: inline-flex;
+    margin: 0;
+}
+
+main {
+    display:flex;
+    
+}
